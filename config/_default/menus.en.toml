@@ -1,0 +1,54 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = ""
+weight = 1
+
+# [[main]]
+# name = "About"
+# url = "about/"
+# weight = 2
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 3
+
+[[main]]
+weight = 4
+name = "Pages"
+hasChildren = true
+
+[[main]]
+parent = "Pages"
+name = "Terms & Conditions"
+url = "terms-conditions/"
+
+[[main]]
+parent = "Pages"
+name = "Privacy Policy"
+url = "privacy-policy/"
+
+[[footer_01]]
+name = "Contact"
+url = "contact/"
+weight = 1
+
+[[footer_01]]
+name = "Investor realtions"
+url = "contact/"
+weight = 2
+
+
+[[footer_02]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 1
+
+[[footer_02]]
+name = "Terms & Conditions"
+url = "terms-conditions/"
+weight = 3
+
