@@ -1,5 +1,4 @@
 ---
-```markdown
 title: "Our Terms And Conditions"
 draft: false
 # description
