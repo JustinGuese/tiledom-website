@@ -1,6 +1,6 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/favicon.ico"
+favicon = "images/favicon.png"
 # logo
 logo = "images/logo.png"
 logo_footer = "images/logo.png"
@@ -86,7 +86,7 @@ enableQQ = false # https://valine.js.org/en/configuration.html#enableQQ
 keywords = ["Boilerplate", "Hugo", "Themefisher", "GetHugoThemes"]
 description = "This is meta description"
 author = "Tiledom"
-image = "images/favicon.ico"                                       # this image will be used as fallback if a page has no image of its own
+image = "images/favicon.png"                                       # this image will be used as fallback if a page has no image of its own
 
 # matomo tracking: see https://matomo.org/
 [matomo]
