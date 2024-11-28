@@ -86,7 +86,7 @@ features:
   - title: "Digital Real Estate"
     subtitle: "COLLABORATIVE SOLUTIONS"
     description: "Each tile in Tiledom is a piece of digital real estate, with its value driven by strategic speculation. Savvy players might snap up iron-rich tiles early, anticipating a surge in demand as others focus on basic tiles. The grid becomes a thriving marketplace, blending resource management with real estate strategy!"
-    image: "images/frealestate.jpeg"
+    image: "images/yourpath.jpeg"
 
 blog:
   enable: false
